@@ -1,1 +1,1 @@
-# Hello. My name is Kim BoGon. I major in Software Convergence in Kyung Hee University.
+### Hello. My name is Kim BoGon.<br> I major in Software Convergence at Kyung Hee University.
